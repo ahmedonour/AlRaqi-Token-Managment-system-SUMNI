@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AL-Raqi University Hospital QMS</string>
+
+    <!-- AppHeader strings -->
+    <string name="hospital_title">Al-Raqi University Hospital</string>
+    <string name="hospital_token_management_system">Token Management System</string>
+    <string name="dashboard_heading">Admin</string>
+
+    <!-- Filter tabs strings -->
+    <string name="filters_all_services">All Services</string>
+    <string name="filters_clinics">Clinics</string>
+    <string name="filters_laboratories">Laboratories</string>
+
+    <!-- Section card strings -->
+    <string name="currency">SDG</string>
+    <string name="queue_in_queue">In queue: %1$d</string>
+
+    <!-- Empty state string -->
+    <string name="empty_state_no_sections">No sections available.</string>
+
+    <!-- APK Download string -->
+    <string name="download_apk">Download APK</string>
+
+</resources>

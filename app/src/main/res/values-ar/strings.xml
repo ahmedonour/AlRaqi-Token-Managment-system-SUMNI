@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">نظام إدارة رموز مستشفى الرقي الجامعي</string>
+
+    <!-- AppHeader strings -->
+    <string name="hospital_title">مستشفى الرقي الجامعي</string>
+    <string name="hospital_token_management_system">نظام إدارة الرموز</string>
+    <string name="dashboard_heading">المسؤول</string>
+
+    <!-- Filter tabs strings -->
+    <string name="filters_all_services">جميع الخدمات</string>
+    <string name="filters_clinics">العيادات</string>
+    <string name="filters_laboratories">المختبرات</string>
+
+    <!-- Section card strings -->
+    <string name="currency">ر.س</string>
+    <string name="queue_in_queue">في الطابور: %1$d</string>
+
+    <!-- Empty state string -->
+    <string name="empty_state_no_sections">لا توجد أقسام متاحة.</string>
+
+    <!-- APK Download string -->
+    <string name="download_apk">تحميل التطبيق</string>
+
+</resources>
